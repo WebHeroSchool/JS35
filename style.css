@@ -2,7 +2,7 @@ body {
   overflow: hidden;
 }
 
-.container {
+.preload {
   display: flex;
   justify-content: center;
   align-items: center;
